@@ -20,3 +20,22 @@ On apprend comment faire communiquer les classes entre elles sans qu'elles se co
 On apprend à sauvegarder et récupérer des données depuis une base de données (H2 puis MySQL) sans écrire de SQL à la main.
 
 ---
+## N3 — Application Web Spring Boot
+
+On construit une vraie application web avec des pages, un formulaire, une connexion sécurisée et une base de données.
+
+---
+## N4 — Angular Framework
+
+On construit une vraie application web avec des pages, un formulaire, une connexion sécurisée et une base de données.
+
+---
+
+## Technologies utilisées
+
+- **Java 17+** et **Maven**
+- **Spring Boot 3.2**
+- **Spring Data JPA** + **Hibernate**
+- **H2** (base en mémoire) et **MySQL**
+- **Thymeleaf** + **Bootstrap 5**
+- **Spring Security**
